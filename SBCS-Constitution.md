@@ -78,7 +78,7 @@ Active members are classified as members who have attended at least 3 events, GB
 - **d.** If the President is unable to perform his/her duties (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of the President.
 - **e.** If the Vice President is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Vice President will be elected in a special election called by the President.
 - **f.** The Vice President shall be the primary point of contact between SBCS and Stony Brook University faculty and staff, including, but not limited to, the University President and the Office of the President, the CS Department, the College of Engineering and Applied Sciences, and University and departmental news sources.
-- **g.** The Web Coordinator and the Project Quack Director report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule.
+- **g.** The Web Coordinator, the Project Quack Director, and the Graphic Designers report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule, and shall follow up with each of them on upcoming and missed deadlines.
 
 ### Section V: Treasurer
 
@@ -92,7 +92,7 @@ Active members are classified as members who have attended at least 3 events, GB
 - **a.** The Secretary shall take minutes and attendance of all meetings and maintain an up-to-date active voting membership roster.
 - **b.** The Secretary shall send out a weekly email, which outlines the agenda of the upcoming meeting, one school day before the meeting.
 - **c.** If the Secretary is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Secretary shall be elected in a special election called by the President
-- **d.** The Social Media Manager, Graphic Designers, and Writing Specialist report to the Secretary. The Secretary is responsible for making sure each of them is completing their tasks on schedule.
+- **d.** The Social Media Manager and Writing Specialist report to the Secretary. The Secretary is responsible for making sure each of them is completing their tasks on schedule.
 
 ## Article V – Non-Executive Board Positions
 
@@ -132,7 +132,7 @@ Active members are classified as members who have attended at least 3 events, GB
      - **iii.** Merchandise
      - **iv.** Website GUI Assets
 3. The responsibilities of the Graphic Designers may be divided between the 2 designers as per the skills, experiences, and workloads of the designers.
-4. Report to the Secretary.
+4. Report to the Vice President. The Vice President follows up with the Graphic Designers on deadlines to make sure graphics are delivered on time.
 
 ### Section IV: Writing Specialist
 
