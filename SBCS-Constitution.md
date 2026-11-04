@@ -104,9 +104,9 @@ Active members are classified as members who have attended at least 3 events, GB
 - **d.** Members holding a non-executive board position must be matriculated, currently enrolled, and working toward an undergraduate degree unless otherwise approved by SEA in writing.
 - **e.** All non-executive board positions shall serve for 1 academic year.
 
-### Section II: Writing Specialist (Instagram & Discord)
+### Section II: Writing Specialist (Social Media Manager)
 
-1. There will be 2 Writing Specialists. The Writing Specialist (Instagram & Discord) is responsible for
+1. There will be 2 Writing Specialists. The Writing Specialist (Social Media Manager) is responsible for
    - **a.** Managing the SBCS Instagram as a representative of the organization.
      - **i.** Interacting with posts (responding to comments, reposting tagged posts, etc).
      - **ii.** Responding to Direct Messages.
@@ -142,7 +142,7 @@ Active members are classified as members who have attended at least 3 events, GB
      - **i.** Outsource writing tasks to Reps if possible
      - **ii.** Primary responsibility is editorial
    - **c.** Managing the SBCS LinkedIn as a representative of the organization, including posting content and responding to comments and messages.
-   - **d.** Writing recaps of major events and posting them to LinkedIn. The Writing Specialist (Instagram & Discord) posts the recaps to Instagram and the SBCS website.
+   - **d.** Writing recaps of major events and posting them to LinkedIn. The Writing Specialist (Social Media Manager) posts the recaps to Instagram and the SBCS website.
 2. Report to the Secretary.
 
 ### Section V: Event Coordinator
