@@ -79,6 +79,7 @@ Active members are classified as members who have attended at least 3 events, GB
 - **e.** If the Vice President is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Vice President will be elected in a special election called by the President.
 - **f.** The Vice President shall be the primary point of contact between SBCS and Stony Brook University faculty and staff, including, but not limited to, the University President and the Office of the President, the CS Department, the College of Engineering and Applied Sciences, and University and departmental news sources.
 - **g.** The Web Coordinator, the Project Quack Director, and the Graphic Designers report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule, and shall follow up with each of them on upcoming and missed deadlines.
+- **h.** The Vice President is responsible for making sure all SBCS public relations (PR), including social media posts, newsletters, LinkedIn posts, flyers, and other promotional materials, goes out on time. The Vice President shall coordinate with the Secretary, the Writing Specialists, and the Graphic Designers to set PR deadlines and follow up when they are at risk of being missed.
 
 ### Section V: Treasurer
 
