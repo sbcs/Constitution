@@ -92,34 +92,34 @@ Active members are classified as members who have attended at least 3 events, GB
 - **a.** The Secretary shall take minutes and attendance of all meetings and maintain an up-to-date active voting membership roster.
 - **b.** The Secretary shall send out a weekly email, which outlines the agenda of the upcoming meeting, one school day before the meeting.
 - **c.** If the Secretary is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Secretary shall be elected in a special election called by the President
-- **d.** The Social Media Manager and Writing Specialist report to the Secretary. The Secretary is responsible for making sure each of them is completing their tasks on schedule.
+- **d.** The 2 Writing Specialists report to the Secretary. The Secretary is responsible for making sure each of them is completing their tasks on schedule.
 
 ## Article V – Non-Executive Board Positions
 
 ### Section I: General Requirements
 
-- **a.** Non-executive board positions include the Social Media Manager, Graphic Designers (x2), Writing Specialist, Event Coordinator, Web Coordinator, Project Quack Director, and QuackHacks Director.
+- **a.** Non-executive board positions include the Writing Specialists (x2), Graphic Designers (x2), Event Coordinator, Web Coordinator, Project Quack Director, and QuackHacks Director.
 - **b.** Non-executive board positions must report to one of the executive board members, as identified in the executive board members' responsibilities. The President delegates tasks, and the executive board member a position reports to is responsible for making sure that position completes its tasks on schedule. This applies at every level where more than one level of reporting exists.
 - **c.** Members holding a non-executive board position hold specific responsibilities with the organization, however, they are not a part of the executive board.
 - **d.** Members holding a non-executive board position must be matriculated, currently enrolled, and working toward an undergraduate degree unless otherwise approved by SEA in writing.
 - **e.** All non-executive board positions shall serve for 1 academic year.
 
-### Section II: Social Media Manager
+### Section II: Writing Specialist (Instagram & Discord)
 
-1. The Social Media Manager is responsible for
-   - **a.** Managing SBCS Social Media, including Instagram and LinkedIn, as a representative of the organization.
+1. There will be 2 Writing Specialists. The Writing Specialist (Instagram & Discord) is responsible for
+   - **a.** Managing the SBCS Instagram as a representative of the organization.
      - **i.** Interacting with posts (responding to comments, reposting tagged posts, etc).
      - **ii.** Responding to Direct Messages.
-   - **b.** Creating engaging short-form content in the form of reels or TikToks.
-   - **c.** Creating engaging long-form content such as documentary/vlog style videos of large scale events.
-   - **d.** Managing and moderating the SBCS Discord server.
+   - **b.** Managing and moderating the SBCS Discord server, including drafting and publishing Discord announcements.
+   - **c.** Creating engaging short-form content in the form of reels or TikToks.
+   - **d.** Creating engaging long-form content such as documentary/vlog style videos of large scale events.
    - **e.** Documenting SBCS Events through photos and videos.
      - **i.** Photographing important events for later usage (newsletter, social media, etc)
      - **ii.** Videographing important moments such as award ceremonies.
-     - **iii.** Posting real-time event updates on social media
+     - **iii.** Posting real-time event updates on Instagram and Discord
      - **iv.** Conduct impromptu interviews with members for content
    - **f.** Posting content and event updates to the SBCS website, working with the Web Coordinator, who maintains the website itself.
-   - **g.** Posting the Writing Specialist's major event recaps to LinkedIn, Instagram, and the SBCS website.
+   - **g.** Posting major event recaps to Instagram and the SBCS website.
 2. Report to the Secretary.
 
 ### Section III: Graphic Designers
@@ -134,14 +134,15 @@ Active members are classified as members who have attended at least 3 events, GB
 3. The responsibilities of the Graphic Designers may be divided between the 2 designers as per the skills, experiences, and workloads of the designers.
 4. Report to the Vice President. The Vice President follows up with the Graphic Designers on deadlines to make sure graphics are delivered on time.
 
-### Section IV: Writing Specialist
+### Section IV: Writing Specialist (Applications, Newsletters & LinkedIn)
 
-1. The Writing Specialist is responsible for
-   - **a.** Managing the SBCS Newsletters: General, Alumni, Sponsor
+1. The Writing Specialist (Applications, Newsletters & LinkedIn) is responsible for
+   - **a.** Writing and editing SBCS applications.
+   - **b.** Managing the SBCS Newsletters: General, Alumni, Sponsor
      - **i.** Outsource writing tasks to Reps if possible
      - **ii.** Primary responsibility is editorial
-   - **b.** Writing recaps of major events, which the Social Media Manager posts to LinkedIn, Instagram, and the SBCS website.
-   - **c.** Drafting and publishing Discord announcements
+   - **c.** Managing the SBCS LinkedIn as a representative of the organization, including posting content and responding to comments and messages.
+   - **d.** Writing recaps of major events and posting them to LinkedIn. The Writing Specialist (Instagram & Discord) posts the recaps to Instagram and the SBCS website.
 2. Report to the Secretary.
 
 ### Section V: Event Coordinator
@@ -305,7 +306,7 @@ Active members are classified as members who have attended at least 3 events, GB
 - **b.** A quorum consisting of a majority of the total active voting membership is necessary for the transaction of any business at all meetings.
 - **c.** All meetings must have an agenda and five (5) school days prior notice of the meetings must be given to all organization members.
 - **d.** This organization shall hold a weekly Executive Board Meeting (EBM).
-  - **i.** The Social Media Manager, Graphic Designers, and Writing Specialist must attend EBM rather than holding separate PR team meetings, so that everyone is on the same page about deadlines and club concerns and miscommunication is avoided.
+  - **i.** The Writing Specialists and Graphic Designers must attend EBM rather than holding separate PR team meetings, so that everyone is on the same page about deadlines and club concerns and miscommunication is avoided.
   - **ii.** During pre-hackathon season, the Hackathon Committee shall give its updates first at EBM and leave promptly afterward. EBM shall continue to be 1.5 hours long during this period.
   - **iii.** Only the Core 4 (the President, Vice President, Secretary, and Treasurer) are required to be present at both EBM and Hackathon Committee meetings.
 
